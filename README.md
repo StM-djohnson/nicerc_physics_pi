@@ -12,4 +12,4 @@ This is a rewrite of the existing Student Materials for the [NICERC Physics Curr
 
 ### Style
 
-My Jupyter notebooks use the [Spinzero theme](https://github.com/neilpanchal/spinzero-jupyter-theme) by Neil Panchal. This theme emulates a $LaTeX$ document style, and I personally find it pleasing. Other styles may result in different formatting, etc.
+My Jupyter notebooks use the [Spinzero theme](https://github.com/neilpanchal/spinzero-jupyter-theme) by Neil Panchal. This theme emulates a $\rm\LaTeX$ document style, and I personally find it pleasing. Other styles may result in different formatting, etc.
