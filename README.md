@@ -13,3 +13,8 @@ This is a rewrite of the existing Student Materials for the [NICERC Physics Curr
 ### Style
 
 My Jupyter notebooks use the [Spinzero theme](https://github.com/neilpanchal/spinzero-jupyter-theme) by Neil Panchal. This theme emulates a <a href="https://www.codecogs.com/eqnedit.php?latex=LaTeX" target="_blank"><img src="https://latex.codecogs.com/gif.latex?LaTeX" title="LaTeX" /></a> document style, and I personally find it pleasing. Other styles may result in different formatting, etc.
+
+#### Installing Theme
+
+If you want to use my theme, you can either clone it from Neil Panchal's github and follow the install directions there, or you can use the copy I've included under the theme directory. I have made a few small modifications to the `custom.css` file to improve mostly table handling. I would suggest installing the original theme then if desired installing my CSS file. Another option is to install the ![Jupyter Themes](https://github.com/dunovank/jupyter-themes) and use those.
+ 
